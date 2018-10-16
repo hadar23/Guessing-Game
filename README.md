@@ -2,8 +2,8 @@
 A game of guessing in Java
 
 How to play:
-1. Enter the name of player 1.
-2. Enter the name of player 2.
+1. Enter the name of player 1
+2. Enter the name of player 2
 3. Choose the number of hints (for practice)
 4. Guess 3 numbers (player 1)
 5. Guess 3 numbers (player 2)
