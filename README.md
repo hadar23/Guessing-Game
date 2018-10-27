@@ -10,4 +10,4 @@ How to play:
 6. Repeat steps 4-5 until there is a winner
 7. Choose whether you want to play again or close the program
 
-(First java project, semester 1, software engineering bachelor degree)
+(First Java project, semester 1, software engineering bachelor degree)
